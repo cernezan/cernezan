@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a rel="me" href="https://toot.io/@zan">Find me on Mastadon</a>
+<a rel="me" href="https://toot.io/@zan"></a>
 <!--
 **cernezan/cernezan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
